@@ -3,8 +3,7 @@
 
 - 🔭 I’m currently working on Smart nx 
 - 🌱 I’m currently learning  UI-UX concepts, React JS and Native 
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about my  repositories
+- 💬 Ask me about my  repositories and anythings about universe
 
 "Work will fill a large part of your life. The only way to be really happy is to do what you believe is great work. And the only way to do great work is to love what you do"
 Steve Jobs
