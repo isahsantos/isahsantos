@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Docway
+- 🔭 I’m currently working on Globo
 - 🌱 I’m currently learning  UI-UX concepts, React JS and Native 
 - 💬 Ask me about my  repositories and anythings about universe
 
