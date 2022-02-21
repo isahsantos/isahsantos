@@ -16,7 +16,7 @@ I love learning new things, I love this roller coaster that is the IT area, in m
 So I chose to take the Information Systems course, which I concluded in 2018.
 I started the master's degree in Software Engineering in 2020. 👩‍🎓️👩‍🎓️📕️
 
-In addition, I work as a development analyst at a company in Juiz de Fora.
+In addition, I work as a development analyst at a company in Globo Comunicações.
 
 I always try to learn new technologies, that's why I'm studying Rocketseat's GoStack and IGTI's UX bootcamp.
 
