@@ -1,30 +1,98 @@
-### Hi there 👋
+# Hi, I'm Isabela! 👋
 
+### Senior Front-End Developer | Angular • TypeScript • React • Next.js
 
-- 🔭 I’m currently working on Globo
-- 🌱 I’m currently learning  UI-UX concepts, React JS and Native 
-- 💬 Ask me about my  repositories and anythings about universe
+I'm a Senior Front-End Developer passionate about building scalable, maintainable, and high-performance web applications.
 
-"Work will fill a large part of your life. The only way to be really happy is to do what you believe is great work. And the only way to do great work is to love what you do"
-Steve Jobs
+Currently, I work at **Globo**, where I develop and evolve modern web applications with a strong focus on **Front-End Architecture, Web Performance, Componentization, and User Experience**.
 
-This phrase before it was said by Steve Jobs was already something I had in mind.
-Working on something that makes me happy and working with technology makes me happy.
+Over the years, I've worked across different areas of software development, from front-end and APIs to databases and UX/UI. This broader background helps me understand products beyond the interface and build solutions with both technical quality and user experience in mind.
 
-I love learning new things, I love this roller coaster that is the IT area, in my humble opinion it is a wide universe to be explored and there is always something new to learn 🚀️🚀️
+---
 
-So I chose to take the Information Systems course, which I concluded in 2018.
-I started the master's degree in Software Engineering in 2020. 👩‍🎓️👩‍🎓️📕️
+## 👩‍💻 What I'm working with
 
-In addition, I work as a development analyst at a company in Globo Comunicações.
+* 🅰️ **Angular & TypeScript** — my main stack
+* ⚛️ **React & Next.js**
+* 🏗️ **Front-End Architecture**
+* 📦 **Monorepos & Shared Libraries**
+* ⚡ **Web Performance & Lazy Loading**
+* 🧩 **Reusable Components & Design Systems**
+* 🔌 **REST & GraphQL APIs**
+* 🧪 **Jest, Cypress & automated testing**
+* 🚀 **GitLab CI/CD & Azure DevOps**
+* 🎨 **UX/UI concepts**
+* 🤖 **Generative AI for Web Development**
 
-I always try to learn new technologies, that's why I'm studying Rocketseat's GoStack and IGTI's UX bootcamp.
+I also have experience with **.NET, C#, SQL Server and Power BI**.
 
-I am extremely passionate about web dev especially the frontend part.
+---
 
-I have experience in SQL, Angular, .Net and I am learning React by rocketseat and UX concepts by IGTI and a book User Centered Design by Travis Lowdermilk.
+## 🏗️ A little about my current work
 
-If you want to check out my journey in this IT universe feel free to clone, comment or contribute with my repositories and if you just want to see they are with Read.me very complete giving the overview of each one.
+At Globo, I've been working on challenges involving applications consumed across different parts of the ecosystem.
 
+Some of the areas I've been involved with include:
 
+* Shared libraries used by Angular and React/Next.js applications
+* Monorepo architecture and internal package distribution
+* Dependency compatibility across multiple applications
+* CSS and Shadow DOM style isolation
+* ESM, CJS and IIFE build environments
+* Automated semantic versioning and releases with `semantic-release`
+* Conventional Commits
+* Architecture Decision Records (ADRs)
+* Performance optimization and asynchronous loading
+* Integration between Front-End and Backend services
 
+I enjoy working on problems where **architecture, developer experience, performance and product needs intersect**.
+
+---
+
+## 🌱 Currently learning
+
+Technology never really stops changing — and that's one of the things I enjoy most about this field.
+
+I'm currently expanding my knowledge in:
+
+🤖 **Generative AI applied to Software Engineering and Web Development**
+
+🏗️ **Software Architecture & Front-End Engineering**
+
+⚡ **Web Performance**
+
+🧠 **Modern approaches to building scalable applications**
+
+---
+
+## 🎓 Education
+
+🎓 Bachelor's Degree in **Information Systems**
+
+🎓 Postgraduate Specialization in **Information Technology — PUC-Rio**
+
+🎨 **UX Design — Digital House Brasil**
+
+🤖 **Software Engineering: Automation and Innovation with Generative AI — Universidade Federal de Goiás**
+
+---
+
+## 💡 What I believe
+
+I enjoy learning new things, solving challenging problems and understanding how technology can be used to build better products.
+
+What keeps me interested in software development is exactly how much there is still to explore.
+
+There is always a new technology, architecture, problem or idea to understand — and that's what makes this journey exciting. 🚀
+
+---
+
+## 🤝 Let's connect
+
+Feel free to explore my repositories, open issues, suggest improvements or contribute.
+
+I'm always happy to exchange ideas about:
+
+**Angular • TypeScript • Front-End Architecture • React • Web Performance • UX/UI • Generative AI**
+
+Thanks for stopping by! 🚀
